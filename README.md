@@ -1,5 +1,5 @@
 # compiladores
-ALUNO: Edgard Ernesto Domingos Bezerra
+ALUNO: Edgard Ernesto Domingos Bezerra  
 MATRÍCULA: 01389350
 
 prova de compiladores  
